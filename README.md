@@ -8,12 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer+(PHP+/+Laravel);AI+%26+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </h3>
 
+<!-- قسم التواصل بالروابط الحقيقية الخاصة بك -->
 <div align="center">
   <a href="mailto:elfakyahmed52@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ahmed-el-faky">
+  <a href="https://www.linkedin.com/in/ahmed-elfaky-36b5b4283/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ahmed_elfaky188/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/ahmed.elfaky.589">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
