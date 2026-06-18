@@ -1,128 +1,42 @@
-# Hi there! 👋 I'm Ahmed El-Faky
+<h1 align="center">Hi there! 👋 I'm Ahmed El-Faky</h1>
 
-<!-- أنيميشن الكتابة التفاعلية المتحركة لتحديد تخصصك -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;PHP+/+Laravel+Expert;Exploring+AI+%26+Prompt+Engineering" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/ahmed1882002">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+Developer;PHP+%2F+Laravel+Expert;Exploring+AI+%26+Prompt+Engineering" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/ahmed1882002?style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Location-Alexandria%2C%20Egypt%20%F0%9F%87%AA%F0%9F%87%AC-blue?style=flat-square" alt="Location" />
-</p>
+<hr>
 
-● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ●
+<h3 align="left">🤝 Let's Connect</h3>
 
-╔══════════════════════════════════════════════╗
-║  ● · ●            ABOUT  ME           ● · ●  ║
-╚══════════════════════════════════════════════╝
+- 📧 **Email:** elfakyahmed52@gmail.com
+- 💼 **Portfolio / Website:** (Put your link here)
 
-ahmed1882002:
-  role        : "Full-Stack Developer / Software Engineer"[cite: 1]
-  education   : "IT - Faculty of Industrial and Energy Technology, BATU"[cite: 1]
-  rank        : "Top 10 students in the IT department"[cite: 1]
-  focus       : "PHP / Laravel · System Architecture · Full-Stack Web"[cite: 1]
-  ai_skills   : "Prompt Engineering for AI code assistants & review"[cite: 1]
-  philosophy  : "Writing clean, production-ready code that scales"[cite: 1]
+<br>
 
-· · ·  ●  · · · · · · · · · · · · · · · · · · · · · · · ·  ●  · · ·
+<h3 align="left">🛠️ Technologies & Tools</h3>
 
-╔══════════════════════════════════════════════╗
-║  ● · ●          TECH  STACK           ● · ●  ║
-╚══════════════════════════════════════════════╝
+**Web Development:**  
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
-● · · BACKEND & WEB · · ●
-  PHP (Strong) · JavaScript · Python · C/C++ · HTML5 · CSS3[cite: 1]
+**Backend & Databases:**  
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 
-● · · FRAMEWORKS · · ●
-  Laravel (Strong) · Django · React[cite: 1]
+<br>
 
-● · · DATABASES & TOOLS · · ●
-  MySQL · PostgreSQL · SQL · Git · GitHub · Linux basics[cite: 1]
-
-· · ·  ●  · · · · · · · · · · · · · · · · · · · · · · · ·  ●  · · ·
-
-╔══════════════════════════════════════════════════════╗
-║  ● · ●         FEATURED  PROJECTS            ● · ●  ║
-╚══════════════════════════════════════════════════════╝
-
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   ░░░░░░░░░░  PROJECT · 01  ░░░░░░░░░░                   │
-│                                                          │
-│   ✦  UniMeet                                             │
-│      Multi-Tenant SaaS Educational Platform              │
-│                                                          │
-│   ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ··        │
-│                                                          │
-│   A comprehensive LMS platform for universities featuring │
-│   isolated workspaces, online lectures, exams,           │
-│   automated attendance, and role-based access control.  │[cite: 1]
-│                                                          │
-│   ● Django · React · PostgreSQL                         │[cite: 1]
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
- 
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   ░░░░░░░░░░  PROJECT · 02  ░░░░░░░░░░                   │
-│                                                          │
-│   ✦  Furni                                               │
-│      E-Commerce Platform                                 │
-│                                                          │
-│   ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ··        │
-│                                                          │
-│   Full-stack furniture store featuring product catalogs, │
-│   shopping cart, order analytics dashboard, and secure   │
-│   Stripe payment gateway integration.                    │[cite: 1]
-│                                                          │
-│   ● Laravel 10 · Filament 3 · MySQL · Stripe             │[cite: 1]
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
- 
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   ░░░░░░░░░░  PROJECT · 03  ░░░░░░░░░░                   │
-│                                                          │
-│   ✦  Sensive                                             │
-│      Multi-User Blogging Platform                        │
-│                                                          │
-│   ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ··        │
-│                                                          │
-│   A robust blog system supporting custom schemas, secure │
-│   authentication via Breeze/Sanctum, and newsletter      │
-│   subscriptions.                                         │[cite: 1]
-│                                                          │
-│   ● Laravel 10 · Blade · Alpine.js · MySQL               │[cite: 1]
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-· · ·  ●  · · · · · · · · · · · · · · · · · · · · · · · ·  ●  · · ·
-
-╔══════════════════════════════════════════════╗
-║  ● · ●         GITHUB  STATS          ● · ●  ║
-╚══════════════════════════════════════════════╝
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed1882002&show_icons=true&theme=dark&text_color=00F0FF&icon_color=00F0FF&border_color=555" alt="Ahmed's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1882002&layout=compact&theme=dark&text_color=00F0FF&border_color=555" alt="Top Languages" />
+  <!-- هنا تم إخفاء الـ Rank بحرف الـ C تماماً -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed1882002&show_icons=true&theme=tokyonight&hide_rank=true" alt="ahmed1882002 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed1882002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-● · · CONTRIBUTION SNAKE · · ●
+<br>
 
-<!-- التعبان المتحرك اللي هياكل المربعات -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/ahmed1882002/ahmed1882002/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+<h3 align="left">🚀 Featured Projects</h3>
 
-· · ·  ●  · · · · · · · · · · · · · · · · · · · · · · · ·  ●  · · ·
-
-╔══════════════════════════════════════════════╗
-║  ● · ●           CONNECT              ● · ●  ║
-╚══════════════════════════════════════════════╝
-
-- 📧 **Email:** elfakyahmed52@gmail.com[cite: 1]
-
-● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ● · · ●
+1. **UniMeet:** Multi-Tenant SaaS Educational Platform (Django, React, PostgreSQL).
+2. **Furni:** E-commerce Furniture Store (Laravel 10, Filament 3, Stripe).
+3. **Sensive:** Multi-user Blogging Platform (Laravel 10, Alpine.js).س
